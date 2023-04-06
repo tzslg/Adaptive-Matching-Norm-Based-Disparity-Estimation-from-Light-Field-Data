@@ -1,8 +1,7 @@
 # Adaptive-Matching-Norm-Based-Disparity-Estimation-from-Light-Field-Data
 
 
-[Fig1](./Fig1.png)
-
+![Fig1](./Fig1.png)
 
 
 @article{LIU2023109042,
