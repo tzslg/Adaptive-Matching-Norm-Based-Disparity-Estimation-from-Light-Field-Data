@@ -1,4 +1,4 @@
-# Adaptive-Matching-Norm-Based-Disparity-Estimation-from-Light-Field-Data
+# Adaptive Matching Norm Based Disparity Estimation from Light Field Data
 
 [Paper Link](https://www.sciencedirect.com/science/article/pii/S0165168423001160)
 
