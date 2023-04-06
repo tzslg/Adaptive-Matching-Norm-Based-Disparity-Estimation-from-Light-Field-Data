@@ -1,6 +1,9 @@
 # Adaptive-Matching-Norm-Based-Disparity-Estimation-from-Light-Field-Data
 
 
+[Fig1](./Fig1.png)
+
+
 
 @article{LIU2023109042,
 title = {Adaptive matching norm based disparity estimation from light field data},
